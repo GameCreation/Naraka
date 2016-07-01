@@ -6,8 +6,6 @@ import com.badlogic.gdx.backends.gwt.GwtApplicationConfiguration;
 import de.gamecreation.game.Main;
 /**
  * Freetype and Overlap2D don't support HTML
- * 
- * @author timomorawitz
  *
  */
 
